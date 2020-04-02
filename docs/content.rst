@@ -64,7 +64,7 @@ following:
   
   - Automatically generated Add/Edit forms
   
-  - Models will be available in Application content heirarchy
+  - Models will be available in Application content hierarchy
 
 
 Why Not Subclass from Content?

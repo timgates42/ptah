@@ -75,7 +75,7 @@ ApplicationFactory is a start-up time configuration which specifies
 a place in your URL to define where you want to mount an Application.
 You must have at least one ApplicationFactory call or else you will be unable
 to use the CMS.  The ApplicationFactory will return the ApplicationRoot based
-on where you `mount` the Application into your heirarchy.
+on where you `mount` the Application into your hierarchy.
 
   e.g.::
 

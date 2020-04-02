@@ -9,7 +9,7 @@ You will need curl and ptah running for this example.
 
 Overview
 --------
-REST API is flat.  If your content participates in heirarchy the system will
+REST API is flat.  If your content participates in hierarchy the system will
 take this into account when computing security.
 
 Note that in the following values for __link__, __uri__ will be different in

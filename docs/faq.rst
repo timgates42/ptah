@@ -8,7 +8,7 @@ Ptah aims to provide a framework which makes low level choices for developers so
 
 Ptah is a framework, an implementation and set of opinions around the Pyramid web framework.  
 
-Ptah, like Pyramid, supports both URL dispatch, traversal.  Unlike Pyramid it provides a data model, content heirarchy,  form library, and high level security primitives (permissions, roles, and principals).  Any of this is additional to Pyramid and augements your application.
+Ptah, like Pyramid, supports both URL dispatch, traversal.  Unlike Pyramid it provides a data model, content hierarchy,  form library, and high level security primitives (permissions, roles, and principals).  Any of this is additional to Pyramid and augements your application.
 
 Where does Pyramid and Ptah differ?
 -----------------------------------
